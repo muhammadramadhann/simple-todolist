@@ -5,12 +5,12 @@
 </p>
 
 # About Program
-A simple To Do List program that implements basic and object-oriented programming with PHP that can keep a list of things the user must do, so that this program can make it easier for users to stay productive and sensitive to what needs to be done.
+Simple To-Do List program that implements basic and object-oriented programming with PHP. This program can make it easier for users to stay productive and sensitive to what needs to be done because that can keep a list of things the user must do.
 
 <ul>
-  <li>Display a simple menu that is easy to use on the terminal and contains the latest todo data</li>
-  <li>Added things to do</li>
+  <li>Display a simple menu that is easy to use on the terminal and contains the latest to-do data</li>
+  <li>Added things to-do</li>
   <li>Delete what has already been done</li>
 </ul>
 
-The program has not been integrated with any database because this program just my practice in learning the basic of PHP. Hopefully, this todolist program can develop and increase its features even better.
+The program has not been integrated with any database because this program is just practice in learning the basics of PHP. Hopefully, this to-do list program can develop and increase its features even better.
